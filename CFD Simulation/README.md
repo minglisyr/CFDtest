@@ -1,3 +1,3 @@
-Leave Blank on purpose
-##
-##
+# OpenFOAM example
+## incompressible fluids
+## pitzDailySteady
